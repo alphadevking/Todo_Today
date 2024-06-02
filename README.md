@@ -32,8 +32,8 @@ Todo Today is a cross-platform desktop ToDo application built with Tauri, ViteJS
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/todo-today.git
-   cd todo-today
+   git clone https://github.com/alphadevking/todo_today.git
+   cd todo_today
    ```
 
 2. **Install dependencies:**
